@@ -27,12 +27,12 @@ body
 {
   min-width: 500px;
   background-color: #e0eeee;
-}
 
+}
 .profileBody
 {
   display: inline-block;
-    background-color:white;
+    background-color: white;
     margin-top: 6px;
     margin-left: 55px;
     width: 75%;
@@ -71,3 +71,4 @@ hr
   margin-right: 1em;
 
 }
+

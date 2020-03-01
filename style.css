@@ -29,14 +29,16 @@ body
   background-color: #e0eeee;
 }
 
-.profileBody {
+.profileBody
+{
   display: inline-block;
-  background-color: white;
-  margin-top: 6px;
-  margin-left: 55px;
-  width: 75%;
-  height: 590px;
+    background-color:white;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 590px;
 }
+
 #name h1
 {
   font-weight: normal;
